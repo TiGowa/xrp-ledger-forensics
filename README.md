@@ -1,6 +1,6 @@
-Should you be worried...
+# Should you be worried #
 
-...to have been indirectly involved in illegal activities on the XRP Ledger? 
+To have been indirectly involved in illegal activities on the XRP Ledger? 
 
 Maybe not.
 

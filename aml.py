@@ -43,11 +43,6 @@ def extract_values(obj, key):
     results = extract(obj, arr, key)
     return results
 
-"""Get index of duplicated string in a list | Credit https://www.quora.com/How-do-I-get-the-index-of-a-duplicated-string-in-a-list-Python-2"""
-
-def getAllindex(list, value):
-     return filter(lambda a: list[a]==value, range(0,len(list)))
-
 """Scan more transactions if wallet in input has more than 1000 tx"""
 
 def query(q):

@@ -12,4 +12,4 @@ This program that will tell you if you have been, through this type of payments,
 
 XRP support welcome
 
-(https://raw.githubusercontent.com/TiGowa/xrp-ledger-forensics/master/xrptipbot.png)
+![Alt text](https://raw.githubusercontent.com/TiGowa/xrp-ledger-forensics/master/xrptipbot.png?raw=true "Optional Title")

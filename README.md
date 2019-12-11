@@ -10,6 +10,5 @@ In some cases and taking the example of the XRP Ledger, you can even participate
 
 This program that will tell you if you have been, through this type of payments, involved with a crook! Obviously, the progam will tell you if you have been also directly dealing with a scammer. Or if you are identified as one!
 
-Support welcome
+XRP support welcome
 
-![xrp tip bot](https://github.com/TiGowa/xrp-ledger-forensics/edit/master/xrptipbot.png)

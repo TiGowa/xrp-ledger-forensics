@@ -9,3 +9,7 @@ But the question is legitimate. Everyone, as an individual or entity (company), 
 In some cases and taking the example of the XRP Ledger, you can even participate in a fraudulent payment without even noticing it. How? At the exception of direct XRP payments, any payment that involves a IOU (I Owe You, basically a debt instrument) can take multiple paths before reaching its beneficiary, using other existing offers to deliver the best option/ path. 
 
 This program that will tell you if you have been, through this type of payments, involved with a crook! Obviously, the progam will tell you if you have been also directly dealing with a scammer. Or if you are identified as one!
+
+Support welcome
+
+![xrp tip bot](https://raw.github.com/TiGowa/xrp-ledger-forensics/edit/master/xrptipbot.png)

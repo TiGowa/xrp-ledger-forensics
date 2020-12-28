@@ -1,4 +1,4 @@
-# Should you be worried #
+# Should you be worried? #
 
 To have been indirectly involved in illegal activities on the XRP Ledger? 
 
